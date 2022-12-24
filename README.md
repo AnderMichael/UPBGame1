@@ -1,2 +1,2 @@
-# UPBGame
-Proyectos de Progra 1 y 2 (Dedicado con mucho cariño al Doctor Alexis Marechal)
+# UPBGame SemestreI_2021 
+Proyecto de Progra 1 (Dedicado con mucho cariño al Doctor Alexis Marechal)
